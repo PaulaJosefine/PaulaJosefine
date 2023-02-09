@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PaulaJosefine Schultheiss
-- 👀 I am a Ph.D. student at Columbia Univeristy in New York. 
-- 🤠 Working under the advisement of Dr. Lance Kam in his Lab for Microscale Biocomplexity, I am currently investigating how the process of T-cell activation is influenced by substrate rigidity, with a specific focus on the interplay between mechanosensing and cellular metabolism. 
+- 👀 I am a Ph.D. student at Columbia University in New York. 
+- 🤠 Working under the advisement of Dr. Lance Kam in his Lab for Microscale Biocomplexity, I am currently investigating how tumor stiffness impacts gene expression patterns. 
